@@ -1,4 +1,4 @@
-package char
+package kotlinFundameental
 
 fun main() {
     var vocal = 'A'

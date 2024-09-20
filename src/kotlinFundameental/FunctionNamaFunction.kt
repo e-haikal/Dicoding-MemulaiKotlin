@@ -1,4 +1,4 @@
-package function
+package kotlinFundameental
 
 fun main() {
     //basic form of function

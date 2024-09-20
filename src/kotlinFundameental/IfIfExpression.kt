@@ -1,4 +1,4 @@
-package IfExpression
+package kotlinFundameental
 
 fun main(args: Array<String>) {
     val openHours = 7

@@ -1,4 +1,4 @@
-package nullableTypes
+package kotlinFundameental
 
 fun main() {
     var obj: Any = "Haikal"

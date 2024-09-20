@@ -1,4 +1,4 @@
-package string
+package kotlinFundameental
 
 fun main() {
     val namaSaya: String = "Haikal"

@@ -1,4 +1,4 @@
-package nullableTypes
+package kotlinFundameental
 
 fun main() {
     val name: String? = null
